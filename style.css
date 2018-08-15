@@ -1,0 +1,21 @@
+body{
+  background-color: lightyellow;
+  text-align: center;
+  margin-top:100px;
+}
+.play{
+  text-decoration: none;
+  font-size: 45px;
+  color:green;
+  border:none;
+  padding:10px;
+  box-shadow:6px 6px 8px green;
+  background: lightgreen;
+  border-radius: 25px;
+  font-family:sans-serif;
+}
+.play:hover{
+  box-shadow:6px 6px 8px blue;
+  color:blue;
+  background: lightblue;
+}
